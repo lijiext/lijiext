@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jie</h1>
 <h3 align="center">A newbie system admin</h3>
 
-- 🌱 I’m currently learning **kubernetes**
+- 🌱 I’m currently focus on HPC systems
 
 - 📫 How to reach me **lijiext@gmail.com**
 
